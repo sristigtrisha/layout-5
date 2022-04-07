@@ -1,0 +1,74 @@
+.layout-5{
+background-color: bisque;
+}
+.logo{
+    height:100px;
+    background-color: palevioletred ;
+    text-align: center;
+    line-height: 100px;
+}
+.header{
+    height:200px;
+    background-color:palevioletred ;
+    text-align: center;
+    line-height: 200px;
+}
+.wrapper{
+overflow:hidden;
+}
+.box{
+    height:100px;
+    background-color: palevioletred;
+    margin: 10px;
+    width:24%;
+    float:left;
+    text-align: center;
+    line-height: 50px;
+   
+}
+.box-4{
+    margin-right: 0;
+}
+.about{
+ height: 300px;
+ background-color: palevioletred;
+ width:50%;
+ text-align: center;
+ line-height: 300px;
+ float: left;
+ 
+}
+.container{
+    overflow: hidden;
+}
+.quick-links-1{
+    height: 200px;
+    background-color: palevioletred;
+    width:48%;
+    float:left;
+    margin: 10px;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 724%;
+  
+    
+    
+}
+.quick-links-2{
+    height: 200px;
+    background-color: palevioletred;
+    width:48%;
+    float:left;
+    margin: 10px;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 724%;
+    
+}
+.footer{
+    height:100px;
+    background-color: palevioletred;
+    text-align: center;
+    line-height: 500%;
+    font-weight: bold;
+}
